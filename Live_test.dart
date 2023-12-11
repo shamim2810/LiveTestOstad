@@ -1,8 +1,8 @@
 void main() {
   List<Map<String, dynamic>> fruits = [
-    {"name": "Orange", "color": "Orange", "price": 60.0},
-    {"name": "Watermelon", "color": "Red", "price": 110.0},
-    {"name": "Strawberry", "color": "pink", "price": 400.0},
+    {"name" : "Orange", "color" : "Orange", "price" : 60.0},
+    {"name" : "Watermelon", "color" : "Red", "price" : 10.0},
+    {"name" : "Strawberry", "color" : "pink", "price" : 40.0},
   ];
 
   print("Original Fruit Details before Discount:");
